@@ -1,0 +1,6 @@
+[submodule "xhyve"]
+	path = xhyve
+	url = https://github.com/mist64/xhyve
+[submodule "shocker"]
+	path = shocker
+	url = https://github.com/stamf/shocker
